@@ -28,6 +28,5 @@ while (1)
     if (sum(h<=0) == 0)
         break;
     end
-    sum(h<=0)
 end
 
